@@ -27,5 +27,5 @@ I’m a passionate developer with several years of experience in JavaScript, Pyt
   Developed an intuitive web-based wardrobe and clothing purchase system using JavaScript, HTML, and CSS for a gaming server.
 
 ## Get in Touch
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+- Email: [mali2002@devilhunter-fivem.xyz.com](mailto:mali2002@devilhunter-fivem.xyz.com)
+- LinkedIn: [linkedin.com/in/mali-dev](https://linkedin.com/in/mali-dev)
