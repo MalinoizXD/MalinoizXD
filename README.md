@@ -3,7 +3,7 @@
 - 👀 I’m interested in building scalable web applications, game development with FiveM and RedM, and exploring the latest trends in artificial intelligence.
 - 🌱 I’m currently learning advanced server-side scripting for RedM and optimizing back-end performance for high-concurrency environments.
 - 💞️ I’m looking to collaborate on open-source projects related to game modding, web development, and AI-driven applications.
-- 📫 How to reach me: [mali2002@devilhunter-fivem.xyz.com](mailto:mali2002@devilhunter-fivem.xyz.com)
+- 📫 How to reach me: [mali2002@devilhunter-fivem.xyz.com](mailto:mali2002@devilhunter-fivem.xyz)
 
 ## About Me
 I’m a passionate developer with several years of experience in JavaScript, Python, and Lua. I have a strong background in full-stack development and have been particularly focused on game modding platforms like FiveM and RedM. I also enjoy contributing to open-source projects and learning about new technologies that can enhance the gaming and web experience.
