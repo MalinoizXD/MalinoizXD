@@ -28,4 +28,4 @@ I’m a passionate developer with several years of experience in JavaScript, Pyt
 
 ## Get in Touch
 - Email: [mali2002@devilhunter-fivem.xyz](mailto:mali2002@devilhunter-fivem.xyz)
-- LinkedIn: [linkedin.com/in/mali-dev](https://linkedin.com/in/mali-dev)
+- LinkedIn: [linkedin.com/in/mali-dev](https://linkedin.com/in/worarit-seekanha-25077a3b2)
