@@ -105,7 +105,17 @@ I'm a passionate **Full-Stack Developer** based in Thailand, specialized in buil
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MalinoizXD&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](./profile/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MalinoizXD&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
