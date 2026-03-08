@@ -1,31 +1,120 @@
-# 👋 Hi, I’m @MalinoizXD
+<div align="center">
 
-- 👀 I’m interested in building scalable web applications, game development with FiveM and RedM, and exploring the latest trends in artificial intelligence.
-- 🌱 I’m currently learning advanced server-side scripting for RedM and optimizing back-end performance for high-concurrency environments.
-- 💞️ I’m looking to collaborate on open-source projects related to game modding, web development, and AI-driven applications.
-- 📫 How to reach me: [mali2002@devilhunter-fivem.xyz](mailto:mali2002@devilhunter-fivem.xyz)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MalinoizXD&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20FiveM%20Builder%20%7C%20Game%20Platform%20Creator&descAlignY=55&descSize=18)
 
-## About Me
-I’m a passionate developer with several years of experience in JavaScript, Python, and Lua. I have a strong background in full-stack development and have been particularly focused on game modding platforms like FiveM and RedM. I also enjoy contributing to open-source projects and learning about new technologies that can enhance the gaming and web experience.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+MalinoizXD+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;FiveM+%26+RedM+Builder+%F0%9F%8E%AE;Game+Platform+Creator+%F0%9F%8E%AF;Always+learning+new+things+%E2%9C%A8)](https://git.io/typing-svg)
 
-## Skills
-- **Programming Languages**: JavaScript, Python, Lua, HTML, CSS, C#
-- **Frameworks & Libraries**: Node.js, Express.js, React, Vue.js
-- **Game Development**: FiveM, RedM, VORP Framework, RAGE:MP
-- **Database Management**: MySQL, MongoDB, SQLite
-- **Version Control**: Git, GitHub, GitLab
-- **Dev Tools**: Docker, Jenkins, VS Code, Webpack
+</div>
 
-## Featured Projects
-- **VORP Metabolism System for RedM**  
-  A comprehensive metabolism system for RedM using VORP Framework, adding realistic hunger, thirst, and health status effects.
-  
-- **FiveM to RedM Script Conversion**  
-  Converted popular FiveM scripts to RedM, ensuring smooth gameplay and enhanced functionality in the Red Dead Online modding environment.
+---
 
-- **Clothing Store Interface**  
-  Developed an intuitive web-based wardrobe and clothing purchase system using JavaScript, HTML, and CSS for a gaming server.
+## 👨‍💻 About Me
 
-## Get in Touch
-- Email: [mali2002@devilhunter-fivem.xyz](mailto:mali2002@devilhunter-fivem.xyz)
-- LinkedIn: [linkedin.com/in/mali-dev](https://linkedin.com/in/worarit-seekanha-25077a3b2)
+I'm a passionate **Full-Stack Developer** based in Thailand, specialized in building scalable web platforms and game server infrastructure. I focus on **FiveM/RedM** ecosystems, **game topup platforms**, and **AI-driven** web applications.
+
+- 🔭 Currently building a **Game Top-Up Platform** supporting 500+ games
+- 🎮 Developing **FiveM launcher** with anti-cheat systems & script marketplaces
+- 🌱 Learning advanced **server-side scripting** for RedM & high-concurrency backends
+- 🤝 Looking to collaborate on **game modding**, web dev & AI-driven open-source projects
+- 📫 Reach me at: **mali2002@devilhunter-fivem.xyz**
+- ⚡ Fun fact: I turn coffee into FiveM scripts
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mali2002%40devilhunter--fivem.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mali2002@devilhunter-fivem.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MalinoizXD-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mali-dev1)
+[![GitHub](https://img.shields.io/badge/GitHub-MalinoizXD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MalinoizXD)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+</div>
+
+### 🚀 Frameworks & Libraries
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+</div>
+
+### 🗄️ Database & Cloud
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### 🎮 Game Development
+
+<div align="center">
+
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+![RAGE:MP](https://img.shields.io/badge/RAGE:MP-EE1C25?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Stats](./profile/stats.svg)](https://github.com/MalinoizXD)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/MalinoizXD)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MalinoizXD&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MalinoizXD&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MalinoizXD.MalinoizXD)
+
+</div>
