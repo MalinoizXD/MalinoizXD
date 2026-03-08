@@ -1,27 +1,25 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MalinoizXD&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20FiveM%20Builder%20%7C%20Game%20Platform%20Creator&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MalinoizXD&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20FiveM%20Builder%20%7C%20Game%20Platform%20Creator&descAlignY=55&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+MalinoizXD+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;FiveM+%26+RedM+Builder+%F0%9F%8E%AE;Game+Platform+Creator+%F0%9F%8E%AF;Always+learning+new+things+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;FiveM+%26+RedM+Infrastructure;Game+Platform+Creator;Always+building+something+new)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate **Full-Stack Developer** based in Thailand, specialized in building scalable web platforms and game server infrastructure. I focus on **FiveM/RedM** ecosystems, **game topup platforms**, and **AI-driven** web applications.
+Full-Stack Developer based in Thailand. I build scalable web platforms, game server infrastructure, and developer tooling — primarily around the **FiveM/RedM** ecosystem and **game topup platforms**.
 
-- 🔭 Currently building a **Game Top-Up Platform** supporting 500+ games
-- 🎮 Developing **FiveM launcher** with anti-cheat systems & script marketplaces
-- 🌱 Learning advanced **server-side scripting** for RedM & high-concurrency backends
-- 🤝 Looking to collaborate on **game modding**, web dev & AI-driven open-source projects
-- 📫 Reach me at: **mali2002@devilhunter-fivem.xyz**
-- ⚡ Fun fact: I turn coffee into FiveM scripts
+- Building a game top-up platform supporting 500+ games
+- Developing a FiveM launcher with anti-cheat and script marketplace
+- Working on high-concurrency backend systems and microservices
+- Contact: **mali2002@devilhunter-fivem.xyz**
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -33,9 +31,9 @@ I'm a passionate **Full-Stack Developer** based in Thailand, specialized in buil
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+**Languages**
 
 <div align="center">
 
@@ -49,7 +47,7 @@ I'm a passionate **Full-Stack Developer** based in Thailand, specialized in buil
 
 </div>
 
-### 🚀 Frameworks & Libraries
+**Frameworks & Libraries**
 
 <div align="center">
 
@@ -61,7 +59,7 @@ I'm a passionate **Full-Stack Developer** based in Thailand, specialized in buil
 
 </div>
 
-### 🗄️ Database & Cloud
+**Database & Infrastructure**
 
 <div align="center">
 
@@ -73,7 +71,7 @@ I'm a passionate **Full-Stack Developer** based in Thailand, specialized in buil
 
 </div>
 
-### 🎮 Game Development
+**Game Development**
 
 <div align="center">
 
@@ -84,7 +82,7 @@ I'm a passionate **Full-Stack Developer** based in Thailand, specialized in buil
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -101,17 +99,17 @@ I'm a passionate **Full-Stack Developer** based in Thailand, specialized in buil
 
 ---
 
-## 🏆 GitHub Trophy
+## Trophies
 
 <div align="center">
 
-[![trophy](./profile/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](./profile/trophy.svg)](https://github.com/MalinoizXD)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -123,7 +121,7 @@ I'm a passionate **Full-Stack Developer** based in Thailand, specialized in buil
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MalinoizXD.MalinoizXD)
 
